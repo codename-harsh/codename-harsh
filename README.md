@@ -1,125 +1,193 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Harshvardhan Singh: CS student working in C++, DSA, RAG and privacy tooling">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=190&text=HARSHVARDHAN%20SINGH&fontSize=42&fontColor=EAFDF9&animation=fadeIn&color=0:07111F,55:123B4A,100:00D9B5&desc=CODE%20%E2%80%A2%20SOLVE%20%E2%80%A2%20BUILD&descAlignY=76&descSize=15" width="100%" alt="Harshvardhan Singh | Code, Solve, Build" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2600&pause=850&color=00D9B5&center=true&vCenter=true&width=760&lines=B.Tech+CSE+%40+PSIT+Kanpur;C%2B%2B+%7C+Data+Structures+%26+Algorithms;Building+AI-powered+%26+security-focused+projects;Curious+about+systems%2C+not+just+syntax;Always+learning.+Always+shipping." alt="Typing introduction" />
+
+<br/>
+
+<a href="https://github.com/codename-harsh"><img src="https://img.shields.io/badge/GitHub-codename--harsh-111827?style=for-the-badge&logo=github&logoColor=00D9B5" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/codenameharsh07/"><img src="https://img.shields.io/badge/LinkedIn-connect-111827?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" alt="LinkedIn" /></a>
+<a href="https://x.com/codenameharsh"><img src="https://img.shields.io/badge/X-follow-111827?style=for-the-badge&logo=x&logoColor=EAFDF9" alt="X" /></a>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/codename-harsh"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-codename--harsh-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C"></a>
-  <a href="https://www.linkedin.com/in/codenameharsh07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-codenameharsh07-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF"></a>
-  <a href="https://x.com/codenameharsh"><img alt="X" src="https://img.shields.io/badge/X-%40codenameharsh-0D1117?style=for-the-badge&logo=x&logoColor=white"></a>
+01 / THE DEVELOPER
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I'm Harshvardhan Singh, a Computer Science student at PSIT, Kanpur. I spend a good part of my time solving problems in C++, exploring how software systems work, and turning interesting ideas into working products.
+
+My path started with C, moved into C++ and DSA, and gradually expanded into web development, backend systems, AI engineering and cybersecurity.
+
+I enjoy the space where problem-solving meets product-building: understand the problem, figure out the engineering, build it, break it, improve it.
+
+</td>
+<td width="42%" valign="top">
+
+name: Harshvardhan Singh
+alias: codename-harsh
+role: B.Tech CSE Student
+institute: PSIT, Kanpur
+base: India
+
+currently:
+  - C++ / DSA
+  - Backend Engineering
+  - AI & RAG Systems
+  - Cybersecurity
+
+mindset: learn -> build -> iterate
+
+</td>
+</tr>
+</table>
+
+02 / WHAT I'M INTO
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+</> Problem Solving
+
+C++, data structures, algorithms, competitive programming and the satisfaction of finding a cleaner solution.
+
+</td>
+<td width="33%" valign="top">
+
+[AI] Applied AI
+
+RAG pipelines, retrieval, embeddings and building AI features that are useful beyond a demo.
+
+</td>
+<td width="33%" valign="top">
+
+[*] Systems & Security
+
+Backend architecture, APIs, privacy engineering, cybersecurity and understanding what happens under the hood.
+
+</td>
+</tr>
+</table>
+
+03 / SELECTED BUILDS
+
+A few projects where I get to apply what I'm learning. Each one started with a problem worth exploring.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🔎 SHodH
+
+Multilingual RAG Research Assistant
+
+Ask questions across PDF documents and get grounded answers with page-aware citations. Built around hybrid retrieval, reranking and citation-constrained generation.
+
+Python FastAPI Next.js Qdrant Redis Celery RAGAS
+
+</td>
+<td width="50%" valign="top">
+
+🛡️ TraceGuard
+
+Web Privacy & Security Intelligence
+
+A browser privacy auditing experience for inspecting trackers, cookies, network signals and permission indicators, with sanitisation and explainable scoring.
+
+Live demo ↗
+
+TypeScript Next.js FastAPI Python Chrome APIs
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+◈ MaskPay
+
+Dynamic UPI Privacy Studio
+
+A privacy-focused UPI pass generator with expiring QR passes, amount locks, revocation controls, split-bill support and multiple payment personas.
+
+Live demo ↗
+
+Next.js TypeScript Tailwind CSS Canvas API UPI Deep Links
+
+</td>
+</tr>
+</table>
+
+Want the engineering details? The project repositories contain the architecture, implementation notes and setup instructions.
+
+04 / THE TOOLKIT
+
+Languages & foundations
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts&theme=dark" alt="C++, C, Python, JavaScript and TypeScript" />
 </p>
 
-<br>
+Building & shipping
 
-<img src="./assets/h-about.svg" width="100%" alt="about_me">
-<img src="./assets/about.svg" width="100%" alt="Terminal card: Harshvardhan Singh, B.Tech CSE second year at PSIT Kanpur, started with C, now building SHodH, TraceGuard and MaskPay">
-
-I'm a second-year CSE student at PSIT Kanpur. I started with C in my first semester, moved to C++ for data structures and algorithms, and now split my time between solving problems and building software that solves one.
-
-So far that means a RAG assistant that has to cite the page it got an answer from, a privacy auditor that shows what a website does behind the scenes, and a UPI tool that shares less about you than a normal payment QR does.
-
-<br>
-
-<img src="./assets/h-stack.svg" width="100%" alt="tech_stack --list">
-<img src="./assets/skills.svg" width="100%" alt="Tech stack grouped into core languages, tools used in projects, AI concepts explored through SHodH, and topics I am learning next">
-
-<br>
-
-<img src="./assets/h-projects.svg" width="100%" alt="featured projects">
-
-<a href="https://github.com/codename-harsh/SHodH-Multilingual-RAG-Research-Assistant">
-  <img src="./assets/shodh.svg" width="100%" alt="SHodH: multilingual RAG research assistant with page-aware citations">
-</a>
-<img src="./assets/shodh-pipeline.svg" width="100%" alt="SHodH pipeline: upload, page-aware extraction, dense and BM25 search, fusion, reranking, cited answer">
-
-<p align="center">
-  <a href="https://github.com/codename-harsh/SHodH-Multilingual-RAG-Research-Assistant"><img alt="View SHodH repo" src="https://img.shields.io/badge/VIEW_REPO-00FF9C?style=for-the-badge&logo=github&logoColor=black"></a>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,postgres,redis,docker,git,github,vscode&theme=dark" alt="React, Next.js, Tailwind, FastAPI, PostgreSQL, Redis, Docker, Git, GitHub and VS Code" />
 </p>
 
-<a href="https://github.com/codename-harsh/TraceGuard">
-  <img src="./assets/traceguard.svg" width="100%" alt="TraceGuard: web privacy and security intelligence platform">
-</a>
+I use these across coursework, DSA practice and projects. I'm still learning, and I prefer being honest about that over calling every tool a superpower.
 
-<p align="center">
-  <a href="https://github.com/codename-harsh/TraceGuard"><img alt="View TraceGuard repo" src="https://img.shields.io/badge/VIEW_REPO-00D9FF?style=for-the-badge&logo=github&logoColor=black"></a>
-  <a href="https://tracegu4rd.vercel.app"><img alt="TraceGuard live demo" src="https://img.shields.io/badge/LIVE_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF&color=0D1117&labelColor=0D1117"></a>
-</p>
+05 / CURRENT LEARNING LOOP
 
-<a href="https://github.com/codename-harsh/maskpay">
-  <img src="./assets/maskpay.svg" width="100%" alt="MaskPay: dynamic UPI privacy studio">
-</a>
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   SOLVE       C++ · DSA · problem patterns                   │
+│   BUILD       APIs · full-stack apps · useful tools          │
+│   EXPLORE     RAG · retrieval · privacy · security            │
+│   IMPROVE     system design · clean code · better decisions   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
-<p align="center">
-  <a href="https://github.com/codename-harsh/maskpay"><img alt="View MaskPay repo" src="https://img.shields.io/badge/VIEW_REPO-B388FF?style=for-the-badge&logo=github&logoColor=black"></a>
-  <a href="https://maskpay-umber.vercel.app/dashboard"><img alt="MaskPay live demo" src="https://img.shields.io/badge/LIVE_DEMO-0D1117?style=for-the-badge&logo=vercel&logoColor=B388FF&color=0D1117&labelColor=0D1117"></a>
-</p>
+I'm currently focused on strengthening DSA fundamentals while getting better at designing and building complete software systems.
 
-<br>
+06 / GITHUB ACTIVITY
 
-<img src="./assets/h-dsa.svg" width="100%" alt="solve --daily">
-<img src="./assets/dsa.svg" width="100%" alt="C++ lower-bound binary search being typed, next to the DSA patterns I practise">
+<div align="center">
 
-I practise DSA in C++ on LeetCode and Codeforces, and I care more about why a pattern works than about the number next to my name. Solutions live in [DSA-LeetCode](https://github.com/codename-harsh/DSA-LeetCode).
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codename-harsh&show_icons=true&hide_border=true&rank_icon=github&bg_color=0B1220&title_color=00D9B5&icon_color=8B5CF6&text_color=C9D6E5" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codename-harsh&layout=compact&hide_border=true&langs_count=8&bg_color=0B1220&title_color=00D9B5&text_color=C9D6E5" alt="Most used languages" />
 
-<!--
-  OPTIONAL: a live LeetCode card. Replace YOUR_LEETCODE_USERNAME, delete the comment markers,
-  and check it renders. (Leaving it out means no stale numbers on your profile.)
+<br/><br/>
 
-<p align="center">
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
-    <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=JetBrains%20Mono&ext=heatmap">
-  </a>
-</p>
--->
+<img width="72%" src="https://streak-stats.demolab.com?user=codename-harsh&hide_border=true&background=0B1220&ring=00D9B5&fire=8B5CF6&currStreakLabel=00D9B5&sideLabels=C9D6E5&dates=8290A5&currStreakNum=EAFDF9&sideNums=EAFDF9" alt="GitHub contribution streak" />
 
-<br>
+<br/><br/>
 
-<img src="./assets/h-journey.svg" width="100%" alt="git log --journey">
-<img src="./assets/journey.svg" width="100%" alt="Learning path: C in semester one, then C++ and DSA, then projects, now backend, system design and security">
+<img width="95%" src="https://ghchart.rshah.org/00D9B5/codename-harsh" alt="GitHub contribution graph" />
 
-<details>
-<summary><b>The early repos that document this path</b></summary>
-<br>
+</div>
 
-Not polished projects, just the honest trail: C basics first, then DSA in C++.
+07 / FIND ME AROUND THE INTERNET
 
-**C fundamentals:** [MycodesOfC](https://github.com/codename-harsh/MycodesOfC) · [startingcodes.c](https://github.com/codename-harsh/startingcodes.c) · [Functions.c](https://github.com/codename-harsh/Functions.c) · [Arrays.c](https://github.com/codename-harsh/Arrays.c) · [2D-Arrays](https://github.com/codename-harsh/2D-Arrays) · [Strings](https://github.com/codename-harsh/Strings) · [Pointers](https://github.com/codename-harsh/Pointers) · [Structures](https://github.com/codename-harsh/Structures) · [RECURSIONS](https://github.com/codename-harsh/RECURSIONS)
+<div align="center">
 
-**DSA practice:** [DSA-Loops-and-Recursions](https://github.com/codename-harsh/DSA-Loops-and-Recursions) · [DSA-Pointers-Rec](https://github.com/codename-harsh/DSA-Pointers-Rec) · [DSA-Strings](https://github.com/codename-harsh/DSA-Strings) · [DSA-Two-Pointer_Approach](https://github.com/codename-harsh/DSA-Two-Pointer_Approach) · [DSA-Two-Pointersin1DArray](https://github.com/codename-harsh/DSA-Two-Pointersin1DArray) · [DSA-LeetCode](https://github.com/codename-harsh/DSA-LeetCode)
 
-</details>
 
-<br>
 
-<img src="./assets/h-stats.svg" width="100%" alt="github --stats">
 
-<p align="center">
-  <img height="175" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=codename-harsh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C">
-  <img height="175" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codename-harsh&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9">
-</p>
+<br/><br/>
 
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=codename-harsh&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=00D9FF&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9">
-</p>
+while (true) {
+    learn();
+    build();
+    solve();
+    repeat();
+}
 
-<p align="center">
-  <img width="100%" alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=codename-harsh&bg_color=0D1117&color=00FF9C&line=00FF9C&point=FFFFFF&area=true&hide_border=true">
-</p>
+Currently compiling the next version of myself.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codename-harsh/codename-harsh/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codename-harsh/codename-harsh/output/snake.svg">
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/codename-harsh/codename-harsh/output/snake-dark.svg" width="100%">
-</picture>
+</div>
 
-<br>
-
-<img src="./assets/h-connect.svg" width="100%" alt="connect --with-me">
-
-I'm looking for hackathons, coding contests and projects where the goal is to build something that actually solves a problem. If that sounds like your team, say hi.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/codenameharsh07/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-codenameharsh07-0D1117?style=for-the-badge&labelColor=0D1117&color=00D9FF"></a>
-  <a href="https://x.com/codenameharsh"><img alt="X" src="https://img.shields.io/badge/X-%40codenameharsh-0D1117?style=for-the-badge&logo=x&logoColor=white"></a>
-</p>
-
-<img src="./assets/footer.svg" width="100%" alt="while alive: learn, build, solve, repeat">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00D9B5,50:123B4A,100:07111F" width="100%" alt="Footer wave" />
